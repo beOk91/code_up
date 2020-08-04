@@ -1,0 +1,1 @@
+m,k=map(int,input().strip().split())
